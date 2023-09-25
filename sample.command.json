@@ -1,0 +1,6 @@
+[
+    {
+        "name": "docker ps",
+        "command": "docker ps --format 'table {{.Names}}\t{{.ID}}\t{{.Image}}\t{{.Command}}\t{{.RunningFor}}'"
+    }
+]

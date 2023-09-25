@@ -1,0 +1,5 @@
+.env
+command.json
+.vscode
+__pycache__
+*.pipe
